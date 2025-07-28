@@ -8,7 +8,7 @@ This repository contains numerical simulation artifacts made for Assignment #4, 
 
 # Sobre o problema estudado
 
-O escoamento e transferência de calor em tubo cilíndrico foram simulados através do método dos volumes finitos por meio do software Ansys R18.1 / Solver Fluent. O caso base foi apresentado pelo professor Rajesh Bhaskaran em vídeos do curso “A Hands-on Introduction to Engineering Simulations”, disponível na plataforma edX, e consistiu da seguinte geometria, propriedades do fluido e condições de contorno:
+O escoamento e transferência de calor em tubo cilíndrico foram simulados através do método dos volumes finitos por meio do software Ansys R18.1 / Solver Fluent. O caso base foi apresentado pelo [professor Rajesh Bhaskaran](https://www.engineering.cornell.edu/people/rajesh-bhaskaran/) em vídeos do curso [A Hands-on Introduction to Engineering Simulations](https://learning.edx.org/course/course-v1:CornellX+ENGR2000X+1T2017/home), disponível na plataforma edX, e consistiu da seguinte geometria, propriedades do fluido e condições de contorno:
 
 - Geometria: tubo cilíndrico reto, diâmetro de $20\ cm$ e comprimento de $3\ m$. Paredes lisas.
 - Regime de escoamento laminar
@@ -22,7 +22,7 @@ As condições de contorno térmicas são exclusivas desse trabalho e não estav
 
 # About the analyzed problem
 
-The fluid flow and heat transfer in a cylindrical tube were simulated through finite volume method using Ansys R18.1 and Fluent solver. The base case was presented by professor Rajesh Bhaskaran in videos from the course `A Hands-on Introduction to Engineering Simulations`, available in edX platform, and consisted of the following geometry, fluid properties and boundary conditions:
+The fluid flow and heat transfer in a cylindrical tube were simulated through finite volume method using Ansys R18.1 and Fluent solver. The base case was presented by [professor Rajesh Bhaskaran](https://www.engineering.cornell.edu/people/rajesh-bhaskaran/) in videos from the course [A Hands-on Introduction to Engineering Simulations](https://learning.edx.org/course/course-v1:CornellX+ENGR2000X+1T2017/home), available in edX platform, and consisted of the following geometry, fluid properties and boundary conditions:
 
 - Geometry: straight cylindrical tube, diameter of $20\ cm$ and length of $3\ m$. Smooth walls.
 - Laminar flow regime - Fluid with a density of $1\ kg/m³$, viscosity of $0.002\ kg/m.s$, specific heat of $1006.43\ J/kg.K$, and thermal conductivity of $0.0242\ W/m.K$.
